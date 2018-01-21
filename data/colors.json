@@ -1,0 +1,20 @@
+[
+	{
+		"name": "red",
+		"weight": 500,
+		"hex": "#F44336",
+		"rgb": "rgb(244, 67, 54)",
+		"hsl": "hsl(4, 90%, 58%)",
+		"cmyk": "cmyk(0%, 73%, 78%, 4%)",
+		"children": [
+			{
+				"name": "Lavender blush",
+				"weight": 50,
+				"hex": "#FFEBEE",
+				"rgb": "rgb(255, 235, 238)",
+				"hsl": "hsl(351, 100%, 96%)",
+				"cmyk": "cmyk(0%, 8%, 7%, 0%)" 
+			}
+		]
+	}
+]
