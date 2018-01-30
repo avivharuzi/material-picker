@@ -1,0 +1,1950 @@
+[{
+  "name": "Red",
+  "slug": "red",
+	"weight": "500",
+	"hex": "#F44336",
+	"rgb": "rgb(244, 67, 54)",
+	"hsl": "hsl(4, 90%, 58%)",
+	"cmyk": "cmyk(0%, 73%, 78%, 4%)",
+	"children": [{
+		"name": "Lavender blush",
+		"weight": "50",
+		"hex": "#FFEBEE",
+		"rgb": "rgb(255, 235, 238)",
+		"hsl": "hsl(351, 100%, 96%)",
+		"cmyk": "cmyk(0%, 8%, 7%, 0%)"
+	}, {
+		"name": "Pastel Pink",
+		"weight": "100",
+		"hex": "#FFCDD2",
+		"rgb": "rgb(255, 205, 210)",
+		"hsl": "hsl(354, 100%, 90%)",
+		"cmyk": "cmyk(0%, 20%, 18%, 0%)"
+	}, {
+		"name": "Sea Pink",
+		"weight": "200",
+		"hex": "#EF9A9A",
+		"rgb": "rgb(239, 154, 154)",
+		"hsl": "hsl(0, 73%, 77%)",
+		"cmyk": "cmyk(0%, 36%, 36%, 6%)"
+	}, {
+		"name": "Sunglo",
+		"weight": "300",
+		"hex": "#E57373",
+		"rgb": "rgb(229, 115, 115)",
+		"hsl": "hsl(0, 69%, 67%)",
+		"cmyk": "cmyk(0%, 50%, 50%, 10%)"
+	}, {
+		"name": "Burnt Sienna",
+		"weight": "400",
+		"hex": "#EF5350",
+		"rgb": "rgb(239, 83, 80)",
+		"hsl": "hsl(1, 83%, 63%)",
+		"cmyk": "cmyk(0%, 65%, 67%, 6%)"
+	}, {
+		"name": "Pomegranate",
+		"weight": "500",
+		"hex": "#F44336",
+		"rgb": "rgb(244, 67, 54)",
+		"hsl": "hsl(4, 90%, 58%)",
+		"cmyk": "cmyk(0%, 73%, 78%, 4%)"
+	}, {
+		"name": "Cinnabar",
+		"weight": "600",
+		"hex": "#E53935",
+		"rgb": "rgb(229, 57, 53)",
+		"hsl": "hsl(1, 77%, 55%)",
+		"cmyk": "cmyk(0%, 75%, 77%, 10%)"
+	}, {
+		"name": "Persian Red",
+		"weight": "700",
+		"hex": "#D32F2F",
+		"rgb": "rgb(211, 47, 47)",
+		"hsl": "hsl(0, 65%, 51%)",
+		"cmyk": "cmyk(0%, 78%, 78%, 17%)"
+	}, {
+		"name": "Tall Poppy",
+		"weight": "800",
+		"hex": "#C62828",
+		"rgb": "rgb(198, 40, 40)",
+		"hsl": "hsl(0, 66%, 47%)",
+		"cmyk": "cmyk(0%, 80%, 80%, 22%)"
+	}, {
+		"name": "Thunderbird",
+		"weight": "900",
+		"hex": "#B71C1C",
+		"rgb": "rgb(183, 28, 28)",
+		"hsl": "hsl(0, 73%, 41%)",
+		"cmyk": "cmyk(0%, 85%, 85%, 28%)"
+	}, {
+		"name": "Vivid Tangerine",
+		"weight": "A100",
+		"hex": "#FF8A80",
+		"rgb": "rgb(255, 138, 128)",
+		"hsl": "hsl(5, 100%, 75%)",
+		"cmyk": "cmyk(0%, 46%, 50%, 0%)"
+	}, {
+		"name": "Sunset Orange",
+		"weight": "A200",
+		"hex": "#FF5252",
+		"rgb": "rgb(255, 82, 82)",
+		"hsl": "hsl(0, 100%, 66%)",
+		"cmyk": "cmyk(0%, 68%, 68%, 0%)"
+	}, {
+		"name": "Torch Red",
+		"weight": "A400",
+		"hex": "#FF1744",
+		"rgb": "rgb(255, 23, 68)",
+		"hsl": "hsl(348, 100%, 55%)",
+		"cmyk": "cmyk(0%, 91%, 73%, 0%)"
+	}, {
+		"name": "Guardsman Red",
+		"weight": "A700",
+		"hex": "#D50000",
+		"rgb": "rgb(213, 0, 0)",
+		"hsl": "hsl(0, 100%, 42%)",
+		"cmyk": "cmyk(0%, 100%, 100%, 16%)"
+	}]
+}, {
+  "name": "Pink",
+  "slug": "pink",
+	"weight": "500",
+	"hex": "#E91E63",
+	"rgb": "rgb(233, 30, 99)",
+	"hsl": "hsl(340, 82%, 52%)",
+	"cmyk": "cmyk(0%, 87%, 58%, 9%)",
+	"children": [{
+		"name": "Wisp Pink",
+		"weight": "50",
+		"hex": "#FCE4EC",
+		"rgb": "rgb(252, 228, 236)",
+		"hsl": "hsl(340, 80%, 94%)",
+		"cmyk": "cmyk(0%, 10%, 6%, 1%)"
+	}, {
+		"name": "Chantilly",
+		"weight": "100",
+		"hex": "#F8BBD0",
+		"rgb": "rgb(248, 187, 208)",
+		"hsl": "hsl(339, 81%, 85%)",
+		"cmyk": "cmyk(0%, 25%, 16%, 3%)"
+	}, {
+		"name": "Mauvelous",
+		"weight": "200",
+		"hex": "#F48FB1",
+		"rgb": "rgb(244, 143, 177)",
+		"hsl": "hsl(340, 82%, 76%)",
+		"cmyk": "cmyk(0%, 41%, 27%, 4%)"
+	}, {
+		"name": "Froly",
+		"weight": "300",
+		"hex": "#F06292",
+		"rgb": "rgb(240, 98, 146)",
+		"hsl": "hsl(340, 83%, 66%)",
+		"cmyk": "cmyk(0%, 59%, 39%, 6%)"
+	}, {
+		"name": "French Rose",
+		"weight": "400",
+		"hex": "#EC407A",
+		"rgb": "rgb(236, 64, 122)",
+		"hsl": "hsl(340, 82%, 59%)",
+		"cmyk": "cmyk(0%, 73%, 48%, 7%)"
+	}, {
+		"name": "Amaranth",
+		"weight": "500",
+		"hex": "#E91E63",
+		"rgb": "rgb(233, 30, 99)",
+		"hsl": "hsl(340, 82%, 52%)",
+		"cmyk": "cmyk(0%, 87%, 58%, 9%)"
+	}, {
+		"name": "Amaranth",
+		"weight": "600",
+		"hex": "#D81B60",
+		"rgb": "rgb(216, 27, 96)",
+		"hsl": "hsl(338, 78%, 48%)",
+		"cmyk": "cmyk(0%, 88%, 56%, 15%)"
+	}, {
+		"name": "Maroon Flush",
+		"weight": "700",
+		"hex": "#C2185B",
+		"rgb": "rgb(194, 24, 91)",
+		"hsl": "hsl(336, 78%, 43%)",
+		"cmyk": "cmyk(0%, 88%, 53%, 24%)"
+	}, {
+		"name": "Jazzberry Jam",
+		"weight": "800",
+		"hex": "#AD1457",
+		"rgb": "rgb(173, 20, 87)",
+		"hsl": "hsl(334, 79%, 38%)",
+		"cmyk": "cmyk(0%, 88%, 50%, 32%)"
+	}, {
+		"name": "Rose Bud Cherry",
+		"weight": "900",
+		"hex": "#880E4F",
+		"rgb": "rgb(136, 14, 79)",
+		"hsl": "hsl(328, 81%, 29%)",
+		"cmyk": "cmyk(0%, 90%, 42%, 47%)"
+	}, {
+		"name": "Tickle Me Pink",
+		"weight": "A100",
+		"hex": "#FF80AB",
+		"rgb": "rgb(255, 128, 171)",
+		"hsl": "hsl(340, 100%, 75%)",
+		"cmyk": "cmyk(0%, 50%, 33%, 0%)"
+	}, {
+		"name": "Wild Strawberry",
+		"weight": "A200",
+		"hex": "#FF4081",
+		"rgb": "rgb(255, 64, 129)",
+		"hsl": "hsl(340, 100%, 63%)",
+		"cmyk": "cmyk(0%, 75%, 49%, 0%)"
+	}, {
+		"name": "Razzmatazz",
+		"weight": "A400",
+		"hex": "#F50057",
+		"rgb": "rgb(245, 0, 87)",
+		"hsl": "hsl(339, 100%, 48%)",
+		"cmyk": "cmyk(0%, 100%, 64%, 4%)"
+	}, {
+		"name": "Red Violet",
+		"weight": "A700",
+		"hex": "#C51162",
+		"rgb": "rgb(197, 17, 98)",
+		"hsl": "hsl(333, 84%, 42%)",
+		"cmyk": "cmyk(0%, 91%, 50%, 23%)"
+	}]
+}, {
+  "name": "Purple",
+  "slug": "purple",
+	"weight": "500",
+	"hex": "#9C27B0",
+	"rgb": "rgb(156, 39, 176)",
+	"hsl": "hsl(291, 64%, 42%)",
+	"cmyk": "cmyk(11%, 78%, 0%, 31%)",
+	"children": [{
+		"name": "Snuff",
+		"weight": "50",
+		"hex": "#F3E5F5",
+		"rgb": "rgb(243, 229, 245)",
+		"hsl": "hsl(292, 44%, 93%)",
+		"cmyk": "cmyk(1%, 7%, 0%, 4%)"
+	}, {
+		"name": "French Lilac",
+		"weight": "100",
+		"hex": "#E1BEE7",
+		"rgb": "rgb(225, 190, 231)",
+		"hsl": "hsl(291, 46%, 83%)",
+		"cmyk": "cmyk(3%, 18%, 0%, 9%)"
+	}, {
+		"name": "Light Wisteria",
+		"weight": "200",
+		"hex": "#CE93D8",
+		"rgb": "rgb(206, 147, 216)",
+		"hsl": "hsl(291, 47%, 71%)",
+		"cmyk": "cmyk(5%, 32%, 0%, 15%)"
+	}, {
+		"name": "Amethyst",
+		"weight": "300",
+		"hex": "#BA68C8",
+		"rgb": "rgb(186, 104, 200)",
+		"hsl": "hsl(291, 47%, 60%)",
+		"cmyk": "cmyk(7%, 48%, 0%, 22%)"
+	}, {
+		"name": "Amethyst",
+		"weight": "400",
+		"hex": "#AB47BC",
+		"rgb": "rgb(171, 71, 188)",
+		"hsl": "hsl(291, 47%, 51%)",
+		"cmyk": "cmyk(9%, 62%, 0%, 26%)"
+	}, {
+		"name": "Seance",
+		"weight": "500",
+		"hex": "#9C27B0",
+		"rgb": "rgb(156, 39, 176)",
+		"hsl": "hsl(291, 64%, 42%)",
+		"cmyk": "cmyk(11%, 78%, 0%, 31%)"
+	}, {
+		"name": "Seance",
+		"weight": "600",
+		"hex": "#8E24AA",
+		"rgb": "rgb(142, 36, 170)",
+		"hsl": "hsl(287, 65%, 40%)",
+		"cmyk": "cmyk(16%, 79%, 0%, 33%)"
+	}, {
+		"name": "Seance",
+		"weight": "700",
+		"hex": "#7B1FA2",
+		"rgb": "rgb(123, 31, 162)",
+		"hsl": "hsl(282, 68%, 38%)",
+		"cmyk": "cmyk(24%, 81%, 0%, 36%)"
+	}, {
+		"name": "Seance",
+		"weight": "800",
+		"hex": "#6A1B9A",
+		"rgb": "rgb(106, 27, 154)",
+		"hsl": "hsl(277, 70%, 35%)",
+		"cmyk": "cmyk(31%, 82%, 0%, 40%)"
+	}, {
+		"name": "Persian Indigo",
+		"weight": "900",
+		"hex": "#4A148C",
+		"rgb": "rgb(74, 20, 140)",
+		"hsl": "hsl(267, 75%, 31%)",
+		"cmyk": "cmyk(47%, 86%, 0%, 45%)"
+	}, {
+		"name": "Heliotrope",
+		"weight": "A100",
+		"hex": "#EA80FC",
+		"rgb": "rgb(234, 128, 252)",
+		"hsl": "hsl(291, 95%, 75%)",
+		"cmyk": "cmyk(7%, 49%, 0%, 1%)"
+	}, {
+		"name": "Heliotrope",
+		"weight": "A200",
+		"hex": "#E040FB",
+		"rgb": "rgb(224, 64, 251)",
+		"hsl": "hsl(291, 96%, 62%)",
+		"cmyk": "cmyk(11%, 75%, 0%, 2%)"
+	}, {
+		"name": "Electric Violet",
+		"weight": "A400",
+		"hex": "#D500F9",
+		"rgb": "rgb(213, 0, 249)",
+		"hsl": "hsl(291, 100%, 49%)",
+		"cmyk": "cmyk(14%, 100%, 0%, 2%)"
+	}, {
+		"name": "Electric Violet",
+		"weight": "A700",
+		"hex": "#AA00FF",
+		"rgb": "rgb(170, 0, 255)",
+		"hsl": "hsl(280, 100%, 50%)",
+		"cmyk": "cmyk(33%, 100%, 0%, 0%)"
+	}]
+}, {
+  "name": "Deep Purple",
+  "slug": "deep-purple",
+	"weight": "500",
+	"hex": "#673AB7",
+	"rgb": "rgb(103, 58, 183)",
+	"hsl": "hsl(262, 52%, 47%)",
+	"cmyk": "cmyk(44%, 68%, 0%, 28%)",
+	"children": [{
+		"name": "White Lilac",
+		"weight": "50",
+		"hex": "#EDE7F6",
+		"rgb": "rgb(237, 231, 246)",
+		"hsl": "hsl(264, 45%, 94%)",
+		"cmyk": "cmyk(4%, 6%, 0%, 4%)"
+	}, {
+		"name": "Prelude",
+		"weight": "100",
+		"hex": "#D1C4E9",
+		"rgb": "rgb(209, 196, 233)",
+		"hsl": "hsl(261, 46%, 84%)",
+		"cmyk": "cmyk(10%, 16%, 0%, 9%)"
+	}, {
+		"name": "Cold Purple",
+		"weight": "200",
+		"hex": "#B39DDB",
+		"rgb": "rgb(179, 157, 219)",
+		"hsl": "hsl(261, 46%, 74%)",
+		"cmyk": "cmyk(18%, 28%, 0%, 14%)"
+	}, {
+		"name": "Lilac Bush",
+		"weight": "300",
+		"hex": "#9575CD",
+		"rgb": "rgb(149, 117, 205)",
+		"hsl": "hsl(262, 47%, 63%)",
+		"cmyk": "cmyk(27%, 43%, 0%, 20%)"
+	}, {
+		"name": "Fuchsia Blue",
+		"weight": "400",
+		"hex": "#7E57C2",
+		"rgb": "rgb(126, 87, 194)",
+		"hsl": "hsl(262, 47%, 55%)",
+		"cmyk": "cmyk(35%, 55%, 0%, 24%)"
+	}, {
+		"name": "Purple Heart",
+		"weight": "500",
+		"hex": "#673AB7",
+		"rgb": "rgb(103, 58, 183)",
+		"hsl": "hsl(262, 52%, 47%)",
+		"cmyk": "cmyk(44%, 68%, 0%, 28%)"
+	}, {
+		"name": "Purple Heart",
+		"weight": "600",
+		"hex": "#5E35B1",
+		"rgb": "rgb(94, 53, 177)",
+		"hsl": "hsl(260, 54%, 45%)",
+		"cmyk": "cmyk(47%, 70%, 0%, 31%)"
+	}, {
+		"name": "Daisy Bush",
+		"weight": "700",
+		"hex": "#512DA8",
+		"rgb": "rgb(81, 45, 168)",
+		"hsl": "hsl(258, 58%, 42%)",
+		"cmyk": "cmyk(52%, 73%, 0%, 34%)"
+	}, {
+		"name": "Daisy Bush",
+		"weight": "800",
+		"hex": "#4527A0",
+		"rgb": "rgb(69, 39, 160)",
+		"hsl": "hsl(255, 61%, 39%)",
+		"cmyk": "cmyk(57%, 76%, 0%, 37%)"
+	}, {
+		"name": "Jacksons Purple",
+		"weight": "900",
+		"hex": "#311B92",
+		"rgb": "rgb(49, 27, 146)",
+		"hsl": "hsl(251, 69%, 34%)",
+		"cmyk": "cmyk(66%, 82%, 0%, 43%)"
+	}, {
+		"name": "Heliotrope",
+		"weight": "A100",
+		"hex": "#B388FF",
+		"rgb": "rgb(179, 136, 255)",
+		"hsl": "hsl(262, 100%, 77%)",
+		"cmyk": "cmyk(30%, 47%, 0%, 0%)"
+	}, {
+		"name": "Electric Violet",
+		"weight": "A200",
+		"hex": "#7C4DFF",
+		"rgb": "rgb(124, 77, 255)",
+		"hsl": "hsl(256, 100%, 65%)",
+		"cmyk": "cmyk(51%, 70%, 0%, 0%)"
+	}, {
+		"name": "Electric Violet",
+		"weight": "A400",
+		"hex": "#651FFF",
+		"rgb": "rgb(101, 31, 255)",
+		"hsl": "hsl(259, 100%, 56%)",
+		"cmyk": "cmyk(60%, 88%, 0%, 0%)"
+	}, {
+		"name": "Electric Violet",
+		"weight": "A700",
+		"hex": "#6200EA",
+		"rgb": "rgb(98, 0, 234)",
+		"hsl": "hsl(265, 100%, 46%)",
+		"cmyk": "cmyk(58%, 100%, 0%, 8%)"
+	}]
+}, {
+  "name": "Indigo",
+  "slug": "indigo",
+	"weight": "500",
+	"hex": "#3F51B5",
+	"rgb": "rgb(63, 81, 181)",
+	"hsl": "hsl(231, 48%, 48%)",
+	"cmyk": "cmyk(65%, 55%, 0%, 29%)",
+	"children": [{
+		"name": "White Lilac",
+		"weight": "50",
+		"hex": "#E8EAF6",
+		"rgb": "rgb(232, 234, 246)",
+		"hsl": "hsl(231, 44%, 94%)",
+		"cmyk": "cmyk(6%, 5%, 0%, 4%)"
+	}, {
+		"name": "Periwinkle Gray",
+		"weight": "100",
+		"hex": "#C5CAE9",
+		"rgb": "rgb(197, 202, 233)",
+		"hsl": "hsl(232, 45%, 84%)",
+		"cmyk": "cmyk(15%, 13%, 0%, 9%)"
+	}, {
+		"name": "Cold Purple",
+		"weight": "200",
+		"hex": "#9FA8DA",
+		"rgb": "rgb(159, 168, 218)",
+		"hsl": "hsl(231, 44%, 74%)",
+		"cmyk": "cmyk(27%, 23%, 0%, 15%)"
+	}, {
+		"name": "Moody Blue",
+		"weight": "300",
+		"hex": "#7986CB",
+		"rgb": "rgb(121, 134, 203)",
+		"hsl": "hsl(230, 44%, 64%)",
+		"cmyk": "cmyk(40%, 34%, 0%, 20%)"
+	}, {
+		"name": "Indigo",
+		"weight": "400",
+		"hex": "#5C6BC0",
+		"rgb": "rgb(92, 107, 192)",
+		"hsl": "hsl(231, 44%, 56%)",
+		"cmyk": "cmyk(52%, 44%, 0%, 25%)"
+	}, {
+		"name": "San Marino",
+		"weight": "500",
+		"hex": "#3F51B5",
+		"rgb": "rgb(63, 81, 181)",
+		"hsl": "hsl(231, 48%, 48%)",
+		"cmyk": "cmyk(65%, 55%, 0%, 29%)"
+	}, {
+		"name": "Sapphire",
+		"weight": "600",
+		"hex": "#3949AB",
+		"rgb": "rgb(57, 73, 171)",
+		"hsl": "hsl(232, 50%, 45%)",
+		"cmyk": "cmyk(67%, 57%, 0%, 33%)"
+	}, {
+		"name": "Sapphire",
+		"weight": "700",
+		"hex": "#303F9F",
+		"rgb": "rgb(48, 63, 159)",
+		"hsl": "hsl(232, 54%, 41%)",
+		"cmyk": "cmyk(70%, 60%, 0%, 38%)"
+	}, {
+		"name": "Bay of Many",
+		"weight": "800",
+		"hex": "#283593",
+		"rgb": "rgb(40, 53, 147)",
+		"hsl": "hsl(233, 57%, 37%)",
+		"cmyk": "cmyk(73%, 64%, 0%, 42%)"
+	}, {
+		"name": "Jacksons Purple",
+		"weight": "900",
+		"hex": "#1A237E",
+		"rgb": "rgb(26, 35, 126)",
+		"hsl": "hsl(235, 66%, 30%)",
+		"cmyk": "cmyk(79%, 72%, 0%, 51%)"
+	}, {
+		"name": "Malibu",
+		"weight": "A100",
+		"hex": "#8C9EFF",
+		"rgb": "rgb(140, 158, 255)",
+		"hsl": "hsl(231, 100%, 77%)",
+		"cmyk": "cmyk(45%, 38%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A200",
+		"hex": "#536DFE",
+		"rgb": "rgb(83, 109, 254)",
+		"hsl": "hsl(231, 99%, 66%)",
+		"cmyk": "cmyk(67%, 57%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A400",
+		"hex": "#3D5AFE",
+		"rgb": "rgb(61, 90, 254)",
+		"hsl": "hsl(231, 99%, 62%)",
+		"cmyk": "cmyk(76%, 65%, 0%, 0%)"
+	}, {
+		"name": "Blue Ribbon",
+		"weight": "A700",
+		"hex": "#304FFE",
+		"rgb": "rgb(48, 79, 254)",
+		"hsl": "hsl(231, 99%, 59%)",
+		"cmyk": "cmyk(81%, 69%, 0%, 0%)"
+	}]
+}, {
+  "name": "Blue",
+  "slug": "blue",
+	"weight": "500",
+	"hex": "#2196F3",
+	"rgb": "rgb(33, 150, 243)",
+	"hsl": "hsl(207, 90%, 54%)",
+	"cmyk": "cmyk(86%, 38%, 0%, 5%)",
+	"children": [{
+		"name": "Hawkes Blue",
+		"weight": "50",
+		"hex": "#E3F2FD",
+		"rgb": "rgb(227, 242, 253)",
+		"hsl": "hsl(205, 87%, 94%)",
+		"cmyk": "cmyk(10%, 4%, 0%, 1%)"
+	}, {
+		"name": "Sail",
+		"weight": "100",
+		"hex": "#BBDEFB",
+		"rgb": "rgb(187, 222, 251)",
+		"hsl": "hsl(207, 89%, 86%)",
+		"cmyk": "cmyk(25%, 12%, 0%, 2%)"
+	}, {
+		"name": "Malibu",
+		"weight": "200",
+		"hex": "#90CAF9",
+		"rgb": "rgb(144, 202, 249)",
+		"hsl": "hsl(207, 90%, 77%)",
+		"cmyk": "cmyk(42%, 19%, 0%, 2%)"
+	}, {
+		"name": "Malibu",
+		"weight": "300",
+		"hex": "#64B5F6",
+		"rgb": "rgb(100, 181, 246)",
+		"hsl": "hsl(207, 89%, 68%)",
+		"cmyk": "cmyk(59%, 26%, 0%, 4%)"
+	}, {
+		"name": "Picton Blue",
+		"weight": "400",
+		"hex": "#42A5F5",
+		"rgb": "rgb(66, 165, 245)",
+		"hsl": "hsl(207, 90%, 61%)",
+		"cmyk": "cmyk(73%, 33%, 0%, 4%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "500",
+		"hex": "#2196F3",
+		"rgb": "rgb(33, 150, 243)",
+		"hsl": "hsl(207, 90%, 54%)",
+		"cmyk": "cmyk(86%, 38%, 0%, 5%)"
+	}, {
+		"name": "Curious Blue",
+		"weight": "600",
+		"hex": "#1E88E5",
+		"rgb": "rgb(30, 136, 229)",
+		"hsl": "hsl(208, 79%, 51%)",
+		"cmyk": "cmyk(87%, 41%, 0%, 10%)"
+	}, {
+		"name": "Denim",
+		"weight": "700",
+		"hex": "#1976D2",
+		"rgb": "rgb(25, 118, 210)",
+		"hsl": "hsl(210, 79%, 46%)",
+		"cmyk": "cmyk(88%, 44%, 0%, 18%)"
+	}, {
+		"name": "Denim",
+		"weight": "800",
+		"hex": "#1565C0",
+		"rgb": "rgb(21, 101, 192)",
+		"hsl": "hsl(212, 80%, 42%)",
+		"cmyk": "cmyk(89%, 47%, 0%, 25%)"
+	}, {
+		"name": "Tory Blue",
+		"weight": "900",
+		"hex": "#0D47A1",
+		"rgb": "rgb(13, 71, 161)",
+		"hsl": "hsl(216, 85%, 34%)",
+		"cmyk": "cmyk(92%, 56%, 0%, 37%)"
+	}, {
+		"name": "Malibu",
+		"weight": "A100",
+		"hex": "#82B1FF",
+		"rgb": "rgb(130, 177, 255)",
+		"hsl": "hsl(217, 100%, 75%)",
+		"cmyk": "cmyk(49%, 31%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A200",
+		"hex": "#448AFF",
+		"rgb": "rgb(68, 138, 255)",
+		"hsl": "hsl(218, 100%, 63%)",
+		"cmyk": "cmyk(73%, 46%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A400",
+		"hex": "#2979FF",
+		"rgb": "rgb(41, 121, 255)",
+		"hsl": "hsl(218, 100%, 58%)",
+		"cmyk": "cmyk(84%, 53%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A700",
+		"hex": "#2962FF",
+		"rgb": "rgb(41, 98, 255)",
+		"hsl": "hsl(224, 100%, 58%)",
+		"cmyk": "cmyk(84%, 62%, 0%, 0%)"
+	}]
+}, {
+  "name": "Light Blue",
+  "slug": "light-blue",
+	"weight": "500",
+	"hex": "#03A9F4",
+	"rgb": "rgb(3, 169, 244)",
+	"hsl": "hsl(199, 98%, 48%)",
+	"cmyk": "cmyk(99%, 31%, 0%, 4%)",
+	"children": [{
+		"name": "Pattens Blue",
+		"weight": "50",
+		"hex": "#E1F5FE",
+		"rgb": "rgb(225, 245, 254)",
+		"hsl": "hsl(199, 94%, 94%)",
+		"cmyk": "cmyk(11%, 4%, 0%, 0%)"
+	}, {
+		"name": "French Pass",
+		"weight": "100",
+		"hex": "#B3E5FC",
+		"rgb": "rgb(179, 229, 252)",
+		"hsl": "hsl(199, 92%, 85%)",
+		"cmyk": "cmyk(29%, 9%, 0%, 1%)"
+	}, {
+		"name": "Malibu",
+		"weight": "200",
+		"hex": "#81D4FA",
+		"rgb": "rgb(129, 212, 250)",
+		"hsl": "hsl(199, 92%, 74%)",
+		"cmyk": "cmyk(48%, 15%, 0%, 2%)"
+	}, {
+		"name": "Picton Blue",
+		"weight": "300",
+		"hex": "#4FC3F7",
+		"rgb": "rgb(79, 195, 247)",
+		"hsl": "hsl(199, 91%, 64%)",
+		"cmyk": "cmyk(68%, 21%, 0%, 3%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "400",
+		"hex": "#29B6F6",
+		"rgb": "rgb(41, 182, 246)",
+		"hsl": "hsl(199, 92%, 56%)",
+		"cmyk": "cmyk(83%, 26%, 0%, 4%)"
+	}, {
+		"name": "Cerulean",
+		"weight": "500",
+		"hex": "#03A9F4",
+		"rgb": "rgb(3, 169, 244)",
+		"hsl": "hsl(199, 98%, 48%)",
+		"cmyk": "cmyk(99%, 31%, 0%, 4%)"
+	}, {
+		"name": "Cerulean",
+		"weight": "600",
+		"hex": "#039BE5",
+		"rgb": "rgb(3, 155, 229)",
+		"hsl": "hsl(200, 97%, 45%)",
+		"cmyk": "cmyk(99%, 32%, 0%, 10%)"
+	}, {
+		"name": "Lochmara",
+		"weight": "700",
+		"hex": "#0288D1",
+		"rgb": "rgb(2, 136, 209)",
+		"hsl": "hsl(201, 98%, 41%)",
+		"cmyk": "cmyk(99%, 35%, 0%, 18%)"
+	}, {
+		"name": "Lochmara",
+		"weight": "800",
+		"hex": "#0277BD",
+		"rgb": "rgb(2, 119, 189)",
+		"hsl": "hsl(202, 98%, 37%)",
+		"cmyk": "cmyk(99%, 37%, 0%, 26%)"
+	}, {
+		"name": "Bahama Blue",
+		"weight": "900",
+		"hex": "#01579B",
+		"rgb": "rgb(1, 87, 155)",
+		"hsl": "hsl(206, 99%, 31%)",
+		"cmyk": "cmyk(99%, 44%, 0%, 39%)"
+	}, {
+		"name": "Anakiwa",
+		"weight": "A100",
+		"hex": "#80D8FF",
+		"rgb": "rgb(128, 216, 255)",
+		"hsl": "hsl(198, 100%, 75%)",
+		"cmyk": "cmyk(50%, 15%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A200",
+		"hex": "#40C4FF",
+		"rgb": "rgb(64, 196, 255)",
+		"hsl": "hsl(199, 100%, 63%)",
+		"cmyk": "cmyk(75%, 23%, 0%, 0%)"
+	}, {
+		"name": "Dodger Blue",
+		"weight": "A400",
+		"hex": "#00B0FF",
+		"rgb": "rgb(0, 176, 255)",
+		"hsl": "hsl(199, 100%, 50%)",
+		"cmyk": "cmyk(100%, 31%, 0%, 0%)"
+	}, {
+		"name": "Azure Radiance",
+		"weight": "A700",
+		"hex": "#0091EA",
+		"rgb": "rgb(0, 145, 234)",
+		"hsl": "hsl(203, 100%, 46%)",
+		"cmyk": "cmyk(100%, 38%, 0%, 8%)"
+	}]
+}, {
+  "name": "Cyan",
+  "slug": "cyan",
+	"weight": "500",
+	"hex": "#00BCD4",
+	"rgb": "rgb(0, 188, 212)",
+	"hsl": "hsl(187, 100%, 42%)",
+	"cmyk": "cmyk(100%, 11%, 0%, 17%)",
+	"children": [{
+		"name": "White Ice",
+		"weight": "50",
+		"hex": "#E0F7FA",
+		"rgb": "rgb(224, 247, 250)",
+		"hsl": "hsl(187, 72%, 93%)",
+		"cmyk": "cmyk(10%, 1%, 0%, 2%)"
+	}, {
+		"name": "Blizzard Blue",
+		"weight": "100",
+		"hex": "#B2EBF2",
+		"rgb": "rgb(178, 235, 242)",
+		"hsl": "hsl(187, 71%, 82%)",
+		"cmyk": "cmyk(26%, 3%, 0%, 5%)"
+	}, {
+		"name": "Spray",
+		"weight": "200",
+		"hex": "#80DEEA",
+		"rgb": "rgb(128, 222, 234)",
+		"hsl": "hsl(187, 72%, 71%)",
+		"cmyk": "cmyk(45%, 5%, 0%, 8%)"
+	}, {
+		"name": "Turquoise Blue",
+		"weight": "300",
+		"hex": "#4DD0E1",
+		"rgb": "rgb(77, 208, 225)",
+		"hsl": "hsl(187, 71%, 59%)",
+		"cmyk": "cmyk(66%, 8%, 0%, 12%)"
+	}, {
+		"name": "Scooter",
+		"weight": "400",
+		"hex": "#26C6DA",
+		"rgb": "rgb(38, 198, 218)",
+		"hsl": "hsl(187, 71%, 50%)",
+		"cmyk": "cmyk(83%, 9%, 0%, 15%)"
+	}, {
+		"name": "Robin's Egg Blue",
+		"weight": "500",
+		"hex": "#00BCD4",
+		"rgb": "rgb(0, 188, 212)",
+		"hsl": "hsl(187, 100%, 42%)",
+		"cmyk": "cmyk(100%, 11%, 0%, 17%)"
+	}, {
+		"name": "Pacific Blue",
+		"weight": "600",
+		"hex": "#00ACC1",
+		"rgb": "rgb(0, 172, 193)",
+		"hsl": "hsl(187, 100%, 38%)",
+		"cmyk": "cmyk(100%, 11%, 0%, 24%)"
+	}, {
+		"name": "Bondi Blue",
+		"weight": "700",
+		"hex": "#0097A7",
+		"rgb": "rgb(0, 151, 167)",
+		"hsl": "hsl(186, 100%, 33%)",
+		"cmyk": "cmyk(100%, 10%, 0%, 35%)"
+	}, {
+		"name": "Blue Lagoon",
+		"weight": "800",
+		"hex": "#00838F",
+		"rgb": "rgb(0, 131, 143)",
+		"hsl": "hsl(185, 100%, 28%)",
+		"cmyk": "cmyk(100%, 8%, 0%, 44%)"
+	}, {
+		"name": "Blue Stone",
+		"weight": "900",
+		"hex": "#006064",
+		"rgb": "rgb(0, 96, 100)",
+		"hsl": "hsl(182, 100%, 20%)",
+		"cmyk": "cmyk(100%, 4%, 0%, 61%)"
+	}, {
+		"name": "Anakiwa",
+		"weight": "A100",
+		"hex": "#84FFFF",
+		"rgb": "rgb(132, 255, 255)",
+		"hsl": "hsl(180, 100%, 76%)",
+		"cmyk": "cmyk(48%, 0%, 0%, 0%)"
+	}, {
+		"name": "Cyan / Aqua",
+		"weight": "A200",
+		"hex": "#18FFFF",
+		"rgb": "rgb(24, 255, 255)",
+		"hsl": "hsl(180, 100%, 55%)",
+		"cmyk": "cmyk(91%, 0%, 0%, 0%)"
+	}, {
+		"name": "Cyan / Aqua",
+		"weight": "A400",
+		"hex": "#00E5FF",
+		"rgb": "rgb(0, 229, 255)",
+		"hsl": "hsl(186, 100%, 50%)",
+		"cmyk": "cmyk(100%, 10%, 0%, 0%)"
+	}, {
+		"name": "Cerulean",
+		"weight": "A700",
+		"hex": "#00B8D4",
+		"rgb": "rgb(0, 184, 212)",
+		"hsl": "hsl(188, 100%, 42%)",
+		"cmyk": "cmyk(100%, 13%, 0%, 17%)"
+	}]
+}, {
+  "name": "Teal",
+  "slug": "teal",
+	"weight": "500",
+	"hex": "#009688",
+	"rgb": "rgb(0, 150, 136)",
+	"hsl": "hsl(174, 100%, 29%)",
+	"cmyk": "cmyk(100%, 0%, 9%, 41%)",
+	"children": [{
+		"name": "Aqua Squeeze",
+		"weight": "50",
+		"hex": "#E0F2F1",
+		"rgb": "rgb(224, 242, 241)",
+		"hsl": "hsl(177, 41%, 91%)",
+		"cmyk": "cmyk(7%, 0%, 0%, 5%)"
+	}, {
+		"name": "Aqua Island",
+		"weight": "100",
+		"hex": "#B2DFDB",
+		"rgb": "rgb(178, 223, 219)",
+		"hsl": "hsl(175, 41%, 79%)",
+		"cmyk": "cmyk(20%, 0%, 2%, 13%)"
+	}, {
+		"name": "Monte Carlo",
+		"weight": "200",
+		"hex": "#80CBC4",
+		"rgb": "rgb(128, 203, 196)",
+		"hsl": "hsl(174, 42%, 65%)",
+		"cmyk": "cmyk(37%, 0%, 3%, 20%)"
+	}, {
+		"name": "Fountain Blue",
+		"weight": "300",
+		"hex": "#4DB6AC",
+		"rgb": "rgb(77, 182, 172)",
+		"hsl": "hsl(174, 42%, 51%)",
+		"cmyk": "cmyk(58%, 0%, 5%, 29%)"
+	}, {
+		"name": "Jungle Green",
+		"weight": "400",
+		"hex": "#26A69A",
+		"rgb": "rgb(38, 166, 154)",
+		"hsl": "hsl(174, 63%, 40%)",
+		"cmyk": "cmyk(77%, 0%, 7%, 35%)"
+	}, {
+		"name": "Persian Green",
+		"weight": "500",
+		"hex": "#009688",
+		"rgb": "rgb(0, 150, 136)",
+		"hsl": "hsl(174, 100%, 29%)",
+		"cmyk": "cmyk(100%, 0%, 9%, 41%)"
+	}, {
+		"name": "Teal",
+		"weight": "600",
+		"hex": "#00897B",
+		"rgb": "rgb(0, 137, 123)",
+		"hsl": "hsl(174, 100%, 27%)",
+		"cmyk": "cmyk(100%, 0%, 10%, 46%)"
+	}, {
+		"name": "Pine Green",
+		"weight": "700",
+		"hex": "#00796B",
+		"rgb": "rgb(0, 121, 107)",
+		"hsl": "hsl(173, 100%, 24%)",
+		"cmyk": "cmyk(100%, 0%, 12%, 53%)"
+	}, {
+		"name": "Tropical Rain Forest",
+		"weight": "800",
+		"hex": "#00695C",
+		"rgb": "rgb(0, 105, 92)",
+		"hsl": "hsl(173, 100%, 21%)",
+		"cmyk": "cmyk(100%, 0%, 12%, 59%)"
+	}, {
+		"name": "Aqua Deep",
+		"weight": "900",
+		"hex": "#004D40",
+		"rgb": "rgb(0, 77, 64)",
+		"hsl": "hsl(170, 100%, 15%)",
+		"cmyk": "cmyk(100%, 0%, 17%, 70%)"
+	}, {
+		"name": "Aero Blue",
+		"weight": "A100",
+		"hex": "#A7FFEB",
+		"rgb": "rgb(167, 255, 235)",
+		"hsl": "hsl(166, 100%, 83%)",
+		"cmyk": "cmyk(35%, 0%, 8%, 0%)"
+	}, {
+		"name": "Aquamarine",
+		"weight": "A200",
+		"hex": "#64FFDA",
+		"rgb": "rgb(100, 255, 218)",
+		"hsl": "hsl(166, 100%, 70%)",
+		"cmyk": "cmyk(61%, 0%, 15%, 0%)"
+	}, {
+		"name": "Java",
+		"weight": "A400",
+		"hex": "#1DE9B6",
+		"rgb": "rgb(29, 233, 182)",
+		"hsl": "hsl(165, 82%, 51%)",
+		"cmyk": "cmyk(88%, 0%, 22%, 9%)"
+	}, {
+		"name": "Caribbean Green",
+		"weight": "A700",
+		"hex": "#00BFA5",
+		"rgb": "rgb(0, 191, 165)",
+		"hsl": "hsl(172, 100%, 37%)",
+		"cmyk": "cmyk(100%, 0%, 14%, 25%)"
+	}]
+}, {
+  "name": "Green",
+  "slug": "green",
+	"weight": "500",
+	"hex": "#4CAF50",
+	"rgb": "rgb(76, 175, 80)",
+	"hsl": "hsl(122, 39%, 49%)",
+	"cmyk": "cmyk(57%, 0%, 54%, 31%)",
+	"children": [{
+		"name": "Panache",
+		"weight": "50",
+		"hex": "#E8F5E9",
+		"rgb": "rgb(232, 245, 233)",
+		"hsl": "hsl(125, 39%, 94%)",
+		"cmyk": "cmyk(5%, 0%, 5%, 4%)"
+	}, {
+		"name": "Zanah",
+		"weight": "100",
+		"hex": "#C8E6C9",
+		"rgb": "rgb(200, 230, 201)",
+		"hsl": "hsl(122, 37%, 84%)",
+		"cmyk": "cmyk(13%, 0%, 13%, 10%)"
+	}, {
+		"name": "Moss Green",
+		"weight": "200",
+		"hex": "#A5D6A7",
+		"rgb": "rgb(165, 214, 167)",
+		"hsl": "hsl(122, 37%, 74%)",
+		"cmyk": "cmyk(23%, 0%, 22%, 16%)"
+	}, {
+		"name": "De York",
+		"weight": "300",
+		"hex": "#81C784",
+		"rgb": "rgb(129, 199, 132)",
+		"hsl": "hsl(123, 38%, 64%)",
+		"cmyk": "cmyk(35%, 0%, 34%, 22%)"
+	}, {
+		"name": "Fern",
+		"weight": "400",
+		"hex": "#66BB6A",
+		"rgb": "rgb(102, 187, 106)",
+		"hsl": "hsl(123, 38%, 57%)",
+		"cmyk": "cmyk(45%, 0%, 43%, 27%)"
+	}, {
+		"name": "Fruit Salad",
+		"weight": "500",
+		"hex": "#4CAF50",
+		"rgb": "rgb(76, 175, 80)",
+		"hsl": "hsl(122, 39%, 49%)",
+		"cmyk": "cmyk(57%, 0%, 54%, 31%)"
+	}, {
+		"name": "Apple",
+		"weight": "600",
+		"hex": "#43A047",
+		"rgb": "rgb(67, 160, 71)",
+		"hsl": "hsl(123, 41%, 45%)",
+		"cmyk": "cmyk(58%, 0%, 56%, 37%)"
+	}, {
+		"name": "Apple",
+		"weight": "700",
+		"hex": "#388E3C",
+		"rgb": "rgb(56, 142, 60)",
+		"hsl": "hsl(123, 43%, 39%)",
+		"cmyk": "cmyk(61%, 0%, 58%, 44%)"
+	}, {
+		"name": "Sea Green",
+		"weight": "800",
+		"hex": "#2E7D32",
+		"rgb": "rgb(46, 125, 50)",
+		"hsl": "hsl(123, 46%, 34%)",
+		"cmyk": "cmyk(63%, 0%, 60%, 51%)"
+	}, {
+		"name": "Parsley",
+		"weight": "900",
+		"hex": "#1B5E20",
+		"rgb": "rgb(27, 94, 32)",
+		"hsl": "hsl(124, 55%, 24%)",
+		"cmyk": "cmyk(71%, 0%, 66%, 63%)"
+	}, {
+		"name": "Magic Mint",
+		"weight": "A100",
+		"hex": "#B9F6CA",
+		"rgb": "rgb(185, 246, 202)",
+		"hsl": "hsl(137, 77%, 85%)",
+		"cmyk": "cmyk(25%, 0%, 18%, 4%)"
+	}, {
+		"name": "Turquoise Blue",
+		"weight": "A200",
+		"hex": "#69F0AE",
+		"rgb": "rgb(105, 240, 174)",
+		"hsl": "hsl(151, 82%, 68%)",
+		"cmyk": "cmyk(56%, 0%, 27%, 6%)"
+	}, {
+		"name": "Spring Green",
+		"weight": "A400",
+		"hex": "#00E676",
+		"rgb": "rgb(0, 230, 118)",
+		"hsl": "hsl(151, 100%, 45%)",
+		"cmyk": "cmyk(100%, 0%, 49%, 10%)"
+	}, {
+		"name": "Malachite",
+		"weight": "A700",
+		"hex": "#00C853",
+		"rgb": "rgb(0, 200, 83)",
+		"hsl": "hsl(145, 100%, 39%)",
+		"cmyk": "cmyk(100%, 0%, 59%, 22%)"
+	}]
+}, {
+  "name": "Light Green",
+  "slug": "light-green",
+	"weight": "500",
+	"hex": "#8BC34A",
+	"rgb": "rgb(139, 195, 74)",
+	"hsl": "hsl(88, 50%, 53%)",
+	"cmyk": "cmyk(29%, 0%, 62%, 24%)",
+	"children": [{
+		"name": "Loafer",
+		"weight": "50",
+		"hex": "#F1F8E9",
+		"rgb": "rgb(241, 248, 233)",
+		"hsl": "hsl(88, 52%, 94%)",
+		"cmyk": "cmyk(3%, 0%, 6%, 3%)"
+	}, {
+		"name": "Chrome White",
+		"weight": "100",
+		"hex": "#DCEDC8",
+		"rgb": "rgb(220, 237, 200)",
+		"hsl": "hsl(88, 51%, 86%)",
+		"cmyk": "cmyk(7%, 0%, 16%, 7%)"
+	}, {
+		"name": "Deco",
+		"weight": "200",
+		"hex": "#C5E1A5",
+		"rgb": "rgb(197, 225, 165)",
+		"hsl": "hsl(88, 50%, 76%)",
+		"cmyk": "cmyk(12%, 0%, 27%, 12%)"
+	}, {
+		"name": "Feijoa",
+		"weight": "300",
+		"hex": "#AED581",
+		"rgb": "rgb(174, 213, 129)",
+		"hsl": "hsl(88, 50%, 67%)",
+		"cmyk": "cmyk(18%, 0%, 39%, 16%)"
+	}, {
+		"name": "Celery",
+		"weight": "400",
+		"hex": "#9CCC65",
+		"rgb": "rgb(156, 204, 101)",
+		"hsl": "hsl(88, 50%, 60%)",
+		"cmyk": "cmyk(24%, 0%, 50%, 20%)"
+	}, {
+		"name": "Sushi",
+		"weight": "500",
+		"hex": "#8BC34A",
+		"rgb": "rgb(139, 195, 74)",
+		"hsl": "hsl(88, 50%, 53%)",
+		"cmyk": "cmyk(29%, 0%, 62%, 24%)"
+	}, {
+		"name": "Sushi",
+		"weight": "600",
+		"hex": "#7CB342",
+		"rgb": "rgb(124, 179, 66)",
+		"hsl": "hsl(89, 46%, 48%)",
+		"cmyk": "cmyk(31%, 0%, 63%, 30%)"
+	}, {
+		"name": "Apple",
+		"weight": "700",
+		"hex": "#689F38",
+		"rgb": "rgb(104, 159, 56)",
+		"hsl": "hsl(92, 48%, 42%)",
+		"cmyk": "cmyk(35%, 0%, 65%, 38%)"
+	}, {
+		"name": "Apple",
+		"weight": "800",
+		"hex": "#558B2F",
+		"rgb": "rgb(85, 139, 47)",
+		"hsl": "hsl(95, 49%, 36%)",
+		"cmyk": "cmyk(39%, 0%, 66%, 45%)"
+	}, {
+		"name": "Dell",
+		"weight": "900",
+		"hex": "#33691E",
+		"rgb": "rgb(51, 105, 30)",
+		"hsl": "hsl(103, 56%, 26%)",
+		"cmyk": "cmyk(51%, 0%, 71%, 59%)"
+	}, {
+		"name": "Reef",
+		"weight": "A100",
+		"hex": "#CCFF90",
+		"rgb": "rgb(204, 255, 144)",
+		"hsl": "hsl(88, 100%, 78%)",
+		"cmyk": "cmyk(20%, 0%, 44%, 0%)"
+	}, {
+		"name": "Green Yellow",
+		"weight": "A200",
+		"hex": "#B2FF59",
+		"rgb": "rgb(178, 255, 89)",
+		"hsl": "hsl(88, 100%, 67%)",
+		"cmyk": "cmyk(30%, 0%, 65%, 0%)"
+	}, {
+		"name": "Chartreuse",
+		"weight": "A400",
+		"hex": "#76FF03",
+		"rgb": "rgb(118, 255, 3)",
+		"hsl": "hsl(93, 100%, 51%)",
+		"cmyk": "cmyk(54%, 0%, 99%, 0%)"
+	}, {
+		"name": "Lima",
+		"weight": "A700",
+		"hex": "#64DD17",
+		"rgb": "rgb(100, 221, 23)",
+		"hsl": "hsl(97, 81%, 48%)",
+		"cmyk": "cmyk(55%, 0%, 90%, 13%)"
+	}]
+}, {
+  "name": "Lime",
+  "slug": "lime",
+	"weight": "500",
+	"hex": "#CDDC39",
+	"rgb": "rgb(205, 220, 57)",
+	"hsl": "hsl(66, 70%, 54%)",
+	"cmyk": "cmyk(7%, 0%, 74%, 14%)",
+	"children": [{
+		"name": "Coconut Cream",
+		"weight": "50",
+		"hex": "#F9FBE7",
+		"rgb": "rgb(249, 251, 231)",
+		"hsl": "hsl(66, 71%, 95%)",
+		"cmyk": "cmyk(1%, 0%, 8%, 2%)"
+	}, {
+		"name": "Tusk",
+		"weight": "100",
+		"hex": "#F0F4C3",
+		"rgb": "rgb(240, 244, 195)",
+		"hsl": "hsl(65, 69%, 86%)",
+		"cmyk": "cmyk(2%, 0%, 20%, 4%)"
+	}, {
+		"name": "Primrose",
+		"weight": "200",
+		"hex": "#E6EE9C",
+		"rgb": "rgb(230, 238, 156)",
+		"hsl": "hsl(66, 71%, 77%)",
+		"cmyk": "cmyk(3%, 0%, 34%, 7%)"
+	}, {
+		"name": "Manz",
+		"weight": "300",
+		"hex": "#DCE775",
+		"rgb": "rgb(220, 231, 117)",
+		"hsl": "hsl(66, 70%, 68%)",
+		"cmyk": "cmyk(5%, 0%, 49%, 9%)"
+	}, {
+		"name": "Wattle",
+		"weight": "400",
+		"hex": "#D4E157",
+		"rgb": "rgb(212, 225, 87)",
+		"hsl": "hsl(66, 70%, 61%)",
+		"cmyk": "cmyk(6%, 0%, 61%, 12%)"
+	}, {
+		"name": "Pear",
+		"weight": "500",
+		"hex": "#CDDC39",
+		"rgb": "rgb(205, 220, 57)",
+		"hsl": "hsl(66, 70%, 54%)",
+		"cmyk": "cmyk(7%, 0%, 74%, 14%)"
+	}, {
+		"name": "Earls Green",
+		"weight": "600",
+		"hex": "#C0CA33",
+		"rgb": "rgb(192, 202, 51)",
+		"hsl": "hsl(64, 60%, 50%)",
+		"cmyk": "cmyk(5%, 0%, 75%, 21%)"
+	}, {
+		"name": "Lemon Ginger",
+		"weight": "700",
+		"hex": "#AFB42B",
+		"rgb": "rgb(175, 180, 43)",
+		"hsl": "hsl(62, 61%, 44%)",
+		"cmyk": "cmyk(3%, 0%, 76%, 29%)"
+	}, {
+		"name": "Lemon Ginger",
+		"weight": "800",
+		"hex": "#9E9D24",
+		"rgb": "rgb(158, 157, 36)",
+		"hsl": "hsl(60, 63%, 38%)",
+		"cmyk": "cmyk(0%, 1%, 77%, 38%)"
+	}, {
+		"name": "Trendy Green",
+		"weight": "900",
+		"hex": "#827717",
+		"rgb": "rgb(130, 119, 23)",
+		"hsl": "hsl(54, 70%, 30%)",
+		"cmyk": "cmyk(0%, 8%, 82%, 49%)"
+	}, {
+		"name": "Dolly",
+		"weight": "A100",
+		"hex": "#F4FF81",
+		"rgb": "rgb(244, 255, 129)",
+		"hsl": "hsl(65, 100%, 75%)",
+		"cmyk": "cmyk(4%, 0%, 49%, 0%)"
+	}, {
+		"name": "Golden Fizz",
+		"weight": "A200",
+		"hex": "#EEFF41",
+		"rgb": "rgb(238, 255, 65)",
+		"hsl": "hsl(65, 100%, 63%)",
+		"cmyk": "cmyk(7%, 0%, 75%, 0%)"
+	}, {
+		"name": "Electric Lime",
+		"weight": "A400",
+		"hex": "#C6FF00",
+		"rgb": "rgb(198, 255, 0)",
+		"hsl": "hsl(73, 100%, 50%)",
+		"cmyk": "cmyk(22%, 0%, 100%, 0%)"
+	}, {
+		"name": "Lime",
+		"weight": "A700",
+		"hex": "#AEEA00",
+		"rgb": "rgb(174, 234, 0)",
+		"hsl": "hsl(75, 100%, 46%)",
+		"cmyk": "cmyk(26%, 0%, 100%, 8%)"
+	}]
+}, {
+  "name": "Yellow",
+  "slug": "yellow",
+	"weight": "500",
+	"hex": "#FFEB3B",
+	"rgb": "rgb(255, 235, 59)",
+	"hsl": "hsl(54, 100%, 62%)",
+	"cmyk": "cmyk(0%, 8%, 77%, 0%)",
+	"children": [{
+		"name": "Travertine",
+		"weight": "50",
+		"hex": "#FFFDE7",
+		"rgb": "rgb(255, 253, 231)",
+		"hsl": "hsl(55, 100%, 95%)",
+		"cmyk": "cmyk(0%, 1%, 9%, 0%)"
+	}, {
+		"name": "Lemon Chiffon",
+		"weight": "100",
+		"hex": "#FFF9C4",
+		"rgb": "rgb(255, 249, 196)",
+		"hsl": "hsl(54, 100%, 88%)",
+		"cmyk": "cmyk(0%, 2%, 23%, 0%)"
+	}, {
+		"name": "Picasso",
+		"weight": "200",
+		"hex": "#FFF59D",
+		"rgb": "rgb(255, 245, 157)",
+		"hsl": "hsl(54, 100%, 81%)",
+		"cmyk": "cmyk(0%, 4%, 38%, 0%)"
+	}, {
+		"name": "Paris Daisy",
+		"weight": "300",
+		"hex": "#FFF176",
+		"rgb": "rgb(255, 241, 118)",
+		"hsl": "hsl(54, 100%, 73%)",
+		"cmyk": "cmyk(0%, 5%, 54%, 0%)"
+	}, {
+		"name": "Gorse",
+		"weight": "400",
+		"hex": "#FFEE58",
+		"rgb": "rgb(255, 238, 88)",
+		"hsl": "hsl(54, 100%, 67%)",
+		"cmyk": "cmyk(0%, 7%, 65%, 0%)"
+	}, {
+		"name": "Gorse",
+		"weight": "500",
+		"hex": "#FFEB3B",
+		"rgb": "rgb(255, 235, 59)",
+		"hsl": "hsl(54, 100%, 62%)",
+		"cmyk": "cmyk(0%, 8%, 77%, 0%)"
+	}, {
+		"name": "Bright Sun",
+		"weight": "600",
+		"hex": "#FDD835",
+		"rgb": "rgb(253, 216, 53)",
+		"hsl": "hsl(49, 98%, 60%)",
+		"cmyk": "cmyk(0%, 15%, 79%, 1%)"
+	}, {
+		"name": "Lightning Yellow",
+		"weight": "700",
+		"hex": "#FBC02D",
+		"rgb": "rgb(251, 192, 45)",
+		"hsl": "hsl(43, 96%, 58%)",
+		"cmyk": "cmyk(0%, 24%, 82%, 2%)"
+	}, {
+		"name": "Sea Buckthorn",
+		"weight": "800",
+		"hex": "#F9A825",
+		"rgb": "rgb(249, 168, 37)",
+		"hsl": "hsl(37, 95%, 56%)",
+		"cmyk": "cmyk(0%, 33%, 85%, 2%)"
+	}, {
+		"name": "Ecstasy",
+		"weight": "900",
+		"hex": "#F57F17",
+		"rgb": "rgb(245, 127, 23)",
+		"hsl": "hsl(28, 92%, 53%)",
+		"cmyk": "cmyk(0%, 48%, 91%, 4%)"
+	}, {
+		"name": "Dolly",
+		"weight": "A100",
+		"hex": "#FFFF8D",
+		"rgb": "rgb(255, 255, 141)",
+		"hsl": "hsl(60, 100%, 78%)",
+		"cmyk": "cmyk(0%, 0%, 45%, 0%)"
+	}, {
+		"name": "Yellow",
+		"weight": "A200",
+		"hex": "#FFFF00",
+		"rgb": "rgb(255, 255, 0)",
+		"hsl": "hsl(60, 100%, 50%)",
+		"cmyk": "cmyk(0%, 0%, 100%, 0%)"
+	}, {
+		"name": "Turbo",
+		"weight": "A400",
+		"hex": "#FFEA00",
+		"rgb": "rgb(255, 234, 0)",
+		"hsl": "hsl(55, 100%, 50%)",
+		"cmyk": "cmyk(0%, 8%, 100%, 0%)"
+	}, {
+		"name": "Gold",
+		"weight": "A700",
+		"hex": "#FFD600",
+		"rgb": "rgb(255, 214, 0)",
+		"hsl": "hsl(50, 100%, 50%)",
+		"cmyk": "cmyk(0%, 16%, 100%, 0%)"
+	}]
+}, {
+  "name": "Amber",
+  "slug": "amber",
+	"weight": "500",
+	"hex": "#FFC107",
+	"rgb": "rgb(255, 193, 7)",
+	"hsl": "hsl(45, 100%, 51%)",
+	"cmyk": "cmyk(0%, 24%, 97%, 0%)",
+	"children": [{
+		"name": "Gin Fizz",
+		"weight": "50",
+		"hex": "#FFF8E1",
+		"rgb": "rgb(255, 248, 225)",
+		"hsl": "hsl(46, 100%, 94%)",
+		"cmyk": "cmyk(0%, 3%, 12%, 0%)"
+	}, {
+		"name": "Buttermilk",
+		"weight": "100",
+		"hex": "#FFECB3",
+		"rgb": "rgb(255, 236, 179)",
+		"hsl": "hsl(45, 100%, 85%)",
+		"cmyk": "cmyk(0%, 7%, 30%, 0%)"
+	}, {
+		"name": "Salomie",
+		"weight": "200",
+		"hex": "#FFE082",
+		"rgb": "rgb(255, 224, 130)",
+		"hsl": "hsl(45, 100%, 75%)",
+		"cmyk": "cmyk(0%, 12%, 49%, 0%)"
+	}, {
+		"name": "Mustard",
+		"weight": "300",
+		"hex": "#FFD54F",
+		"rgb": "rgb(255, 213, 79)",
+		"hsl": "hsl(46, 100%, 65%)",
+		"cmyk": "cmyk(0%, 16%, 69%, 0%)"
+	}, {
+		"name": "Sunglow",
+		"weight": "400",
+		"hex": "#FFCA28",
+		"rgb": "rgb(255, 202, 40)",
+		"hsl": "hsl(45, 100%, 58%)",
+		"cmyk": "cmyk(0%, 21%, 84%, 0%)"
+	}, {
+		"name": "Amber",
+		"weight": "500",
+		"hex": "#FFC107",
+		"rgb": "rgb(255, 193, 7)",
+		"hsl": "hsl(45, 100%, 51%)",
+		"cmyk": "cmyk(0%, 24%, 97%, 0%)"
+	}, {
+		"name": "Selective Yellow",
+		"weight": "600",
+		"hex": "#FFB300",
+		"rgb": "rgb(255, 179, 0)",
+		"hsl": "hsl(42, 100%, 50%)",
+		"cmyk": "cmyk(0%, 30%, 100%, 0%)"
+	}, {
+		"name": "Orange Peel",
+		"weight": "700",
+		"hex": "#FFA000",
+		"rgb": "rgb(255, 160, 0)",
+		"hsl": "hsl(38, 100%, 50%)",
+		"cmyk": "cmyk(0%, 37%, 100%, 0%)"
+	}, {
+		"name": "Pizazz",
+		"weight": "800",
+		"hex": "#FF8F00",
+		"rgb": "rgb(255, 143, 0)",
+		"hsl": "hsl(34, 100%, 50%)",
+		"cmyk": "cmyk(0%, 44%, 100%, 0%)"
+	}, {
+		"name": "Blaze Orange",
+		"weight": "900",
+		"hex": "#FF6F00",
+		"rgb": "rgb(255, 111, 0)",
+		"hsl": "hsl(26, 100%, 50%)",
+		"cmyk": "cmyk(0%, 56%, 100%, 0%)"
+	}, {
+		"name": "Kournikova",
+		"weight": "A100",
+		"hex": "#FFE57F",
+		"rgb": "rgb(255, 229, 127)",
+		"hsl": "hsl(48, 100%, 75%)",
+		"cmyk": "cmyk(0%, 10%, 50%, 0%)"
+	}, {
+		"name": "Bright Sun",
+		"weight": "A200",
+		"hex": "#FFD740",
+		"rgb": "rgb(255, 215, 64)",
+		"hsl": "hsl(47, 100%, 63%)",
+		"cmyk": "cmyk(0%, 16%, 75%, 0%)"
+	}, {
+		"name": "Amber",
+		"weight": "A400",
+		"hex": "#FFC400",
+		"rgb": "rgb(255, 196, 0)",
+		"hsl": "hsl(46, 100%, 50%)",
+		"cmyk": "cmyk(0%, 23%, 100%, 0%)"
+	}, {
+		"name": "Web Orange",
+		"weight": "A700",
+		"hex": "#FFAB00",
+		"rgb": "rgb(255, 171, 0)",
+		"hsl": "hsl(40, 100%, 50%)",
+		"cmyk": "cmyk(0%, 33%, 100%, 0%)"
+	}]
+}, {
+  "name": "Orange",
+  "slug": "orange",
+	"weight": "500",
+	"hex": "#FF9800",
+	"rgb": "rgb(255, 152, 0)",
+	"hsl": "hsl(36, 100%, 50%)",
+	"cmyk": "cmyk(0%, 40%, 100%, 0%)",
+	"children": [{
+		"name": "Sazerac",
+		"weight": "50",
+		"hex": "#FFF3E0",
+		"rgb": "rgb(255, 243, 224)",
+		"hsl": "hsl(37, 100%, 94%)",
+		"cmyk": "cmyk(0%, 5%, 12%, 0%)"
+	}, {
+		"name": "Frangipani",
+		"weight": "100",
+		"hex": "#FFE0B2",
+		"rgb": "rgb(255, 224, 178)",
+		"hsl": "hsl(36, 100%, 85%)",
+		"cmyk": "cmyk(0%, 12%, 30%, 0%)"
+	}, {
+		"name": "Chardonnay",
+		"weight": "200",
+		"hex": "#FFCC80",
+		"rgb": "rgb(255, 204, 128)",
+		"hsl": "hsl(36, 100%, 75%)",
+		"cmyk": "cmyk(0%, 20%, 50%, 0%)"
+	}, {
+		"name": "Texas Rose",
+		"weight": "300",
+		"hex": "#FFB74D",
+		"rgb": "rgb(255, 183, 77)",
+		"hsl": "hsl(36, 100%, 65%)",
+		"cmyk": "cmyk(0%, 28%, 70%, 0%)"
+	}, {
+		"name": "Sunshade",
+		"weight": "400",
+		"hex": "#FFA726",
+		"rgb": "rgb(255, 167, 38)",
+		"hsl": "hsl(36, 100%, 57%)",
+		"cmyk": "cmyk(0%, 35%, 85%, 0%)"
+	}, {
+		"name": "Pizazz",
+		"weight": "500",
+		"hex": "#FF9800",
+		"rgb": "rgb(255, 152, 0)",
+		"hsl": "hsl(36, 100%, 50%)",
+		"cmyk": "cmyk(0%, 40%, 100%, 0%)"
+	}, {
+		"name": "Pizazz",
+		"weight": "600",
+		"hex": "#FB8C00",
+		"rgb": "rgb(251, 140, 0)",
+		"hsl": "hsl(33, 100%, 49%)",
+		"cmyk": "cmyk(0%, 44%, 100%, 2%)"
+	}, {
+		"name": "Gold Drop",
+		"weight": "700",
+		"hex": "#F57C00",
+		"rgb": "rgb(245, 124, 0)",
+		"hsl": "hsl(30, 100%, 48%)",
+		"cmyk": "cmyk(0%, 49%, 100%, 4%)"
+	}, {
+		"name": "Clementine",
+		"weight": "800",
+		"hex": "#EF6C00",
+		"rgb": "rgb(239, 108, 0)",
+		"hsl": "hsl(27, 100%, 47%)",
+		"cmyk": "cmyk(0%, 55%, 100%, 6%)"
+	}, {
+		"name": "Trinidad",
+		"weight": "900",
+		"hex": "#E65100",
+		"rgb": "rgb(230, 81, 0)",
+		"hsl": "hsl(21, 100%, 45%)",
+		"cmyk": "cmyk(0%, 65%, 100%, 10%)"
+	}, {
+		"name": "Grandis",
+		"weight": "A100",
+		"hex": "#FFD180",
+		"rgb": "rgb(255, 209, 128)",
+		"hsl": "hsl(38, 100%, 75%)",
+		"cmyk": "cmyk(0%, 18%, 50%, 0%)"
+	}, {
+		"name": "Yellow Orange",
+		"weight": "A200",
+		"hex": "#FFAB40",
+		"rgb": "rgb(255, 171, 64)",
+		"hsl": "hsl(34, 100%, 63%)",
+		"cmyk": "cmyk(0%, 33%, 75%, 0%)"
+	}, {
+		"name": "Pizazz",
+		"weight": "A400",
+		"hex": "#FF9100",
+		"rgb": "rgb(255, 145, 0)",
+		"hsl": "hsl(34, 100%, 50%)",
+		"cmyk": "cmyk(0%, 43%, 100%, 0%)"
+	}, {
+		"name": "Blaze Orange",
+		"weight": "A700",
+		"hex": "#FF6D00",
+		"rgb": "rgb(255, 109, 0)",
+		"hsl": "hsl(26, 100%, 50%)",
+		"cmyk": "cmyk(0%, 57%, 100%, 0%)"
+	}]
+}, {
+  "name": "Deep Orange",
+  "slug": "deep-orange",
+	"weight": "500",
+	"hex": "#FF5722",
+	"rgb": "rgb(255, 87, 34)",
+	"hsl": "hsl(14, 100%, 57%)",
+	"cmyk": "cmyk(0%, 66%, 87%, 0%)",
+	"children": [{
+		"name": "Linen",
+		"weight": "50",
+		"hex": "#FBE9E7",
+		"rgb": "rgb(251, 233, 231)",
+		"hsl": "hsl(6, 71%, 95%)",
+		"cmyk": "cmyk(0%, 7%, 8%, 2%)"
+	}, {
+		"name": "Romantic",
+		"weight": "100",
+		"hex": "#FFCCBC",
+		"rgb": "rgb(255, 204, 188)",
+		"hsl": "hsl(14, 100%, 87%)",
+		"cmyk": "cmyk(0%, 20%, 26%, 0%)"
+	}, {
+		"name": "Mona Lisa",
+		"weight": "200",
+		"hex": "#FFAB91",
+		"rgb": "rgb(255, 171, 145)",
+		"hsl": "hsl(14, 100%, 78%)",
+		"cmyk": "cmyk(0%, 33%, 43%, 0%)"
+	}, {
+		"name": "Salmon",
+		"weight": "300",
+		"hex": "#FF8A65",
+		"rgb": "rgb(255, 138, 101)",
+		"hsl": "hsl(14, 100%, 70%)",
+		"cmyk": "cmyk(0%, 46%, 60%, 0%)"
+	}, {
+		"name": "Burning Orange",
+		"weight": "400",
+		"hex": "#FF7043",
+		"rgb": "rgb(255, 112, 67)",
+		"hsl": "hsl(14, 100%, 63%)",
+		"cmyk": "cmyk(0%, 56%, 74%, 0%)"
+	}, {
+		"name": "Orange",
+		"weight": "500",
+		"hex": "#FF5722",
+		"rgb": "rgb(255, 87, 34)",
+		"hsl": "hsl(14, 100%, 57%)",
+		"cmyk": "cmyk(0%, 66%, 87%, 0%)"
+	}, {
+		"name": "Pomegranate",
+		"weight": "600",
+		"hex": "#F4511E",
+		"rgb": "rgb(244, 81, 30)",
+		"hsl": "hsl(14, 91%, 54%)",
+		"cmyk": "cmyk(0%, 67%, 88%, 4%)"
+	}, {
+		"name": "Cinnabar",
+		"weight": "700",
+		"hex": "#E64A19",
+		"rgb": "rgb(230, 74, 25)",
+		"hsl": "hsl(14, 80%, 50%)",
+		"cmyk": "cmyk(0%, 68%, 89%, 10%)"
+	}, {
+		"name": "Tia Maria",
+		"weight": "800",
+		"hex": "#D84315",
+		"rgb": "rgb(216, 67, 21)",
+		"hsl": "hsl(14, 82%, 46%)",
+		"cmyk": "cmyk(0%, 69%, 90%, 15%)"
+	}, {
+		"name": "Tia Maria",
+		"weight": "900",
+		"hex": "#BF360C",
+		"rgb": "rgb(191, 54, 12)",
+		"hsl": "hsl(14, 88%, 40%)",
+		"cmyk": "cmyk(0%, 72%, 94%, 25%)"
+	}, {
+		"name": "Vivid Tangerine",
+		"weight": "A100",
+		"hex": "#FF9E80",
+		"rgb": "rgb(255, 158, 128)",
+		"hsl": "hsl(14, 100%, 75%)",
+		"cmyk": "cmyk(0%, 38%, 50%, 0%)"
+	}, {
+		"name": "Burning Orange",
+		"weight": "A200",
+		"hex": "#FF6E40",
+		"rgb": "rgb(255, 110, 64)",
+		"hsl": "hsl(14, 100%, 63%)",
+		"cmyk": "cmyk(0%, 57%, 75%, 0%)"
+	}, {
+		"name": "Vermilion",
+		"weight": "A400",
+		"hex": "#FF3D00",
+		"rgb": "rgb(255, 61, 0)",
+		"hsl": "hsl(14, 100%, 50%)",
+		"cmyk": "cmyk(0%, 76%, 100%, 0%)"
+	}, {
+		"name": "Grenadier",
+		"weight": "A700",
+		"hex": "#DD2C00",
+		"rgb": "rgb(221, 44, 0)",
+		"hsl": "hsl(12, 100%, 43%)",
+		"cmyk": "cmyk(0%, 80%, 100%, 13%)"
+	}]
+}, {
+  "name": "Brown",
+  "slug": "brown",
+	"weight": "500",
+	"hex": "#795548",
+	"rgb": "rgb(121, 85, 72)",
+	"hsl": "hsl(16, 25%, 38%)",
+	"cmyk": "cmyk(0%, 30%, 40%, 53%)",
+	"children": [{
+		"name": "Ebb",
+		"weight": "50",
+		"hex": "#EFEBE9",
+		"rgb": "rgb(239, 235, 233)",
+		"hsl": "hsl(20, 16%, 93%)",
+		"cmyk": "cmyk(0%, 2%, 3%, 6%)"
+	}, {
+		"name": "Swirl",
+		"weight": "100",
+		"hex": "#D7CCC8",
+		"rgb": "rgb(215, 204, 200)",
+		"hsl": "hsl(16, 16%, 81%)",
+		"cmyk": "cmyk(0%, 5%, 7%, 16%)"
+	}, {
+		"name": "Silk",
+		"weight": "200",
+		"hex": "#BCAAA4",
+		"rgb": "rgb(188, 170, 164)",
+		"hsl": "hsl(15, 15%, 69%)",
+		"cmyk": "cmyk(0%, 10%, 13%, 26%)"
+	}, {
+		"name": "Pharlap",
+		"weight": "300",
+		"hex": "#A1887F",
+		"rgb": "rgb(161, 136, 127)",
+		"hsl": "hsl(16, 15%, 56%)",
+		"cmyk": "cmyk(0%, 16%, 21%, 37%)"
+	}, {
+		"name": "Cement",
+		"weight": "400",
+		"hex": "#8D6E63",
+		"rgb": "rgb(141, 110, 99)",
+		"hsl": "hsl(16, 18%, 47%)",
+		"cmyk": "cmyk(0%, 22%, 30%, 45%)"
+	}, {
+		"name": "Roman Coffee",
+		"weight": "500",
+		"hex": "#795548",
+		"rgb": "rgb(121, 85, 72)",
+		"hsl": "hsl(16, 25%, 38%)",
+		"cmyk": "cmyk(0%, 30%, 40%, 53%)"
+	}, {
+		"name": "Kabul",
+		"weight": "600",
+		"hex": "#6D4C41",
+		"rgb": "rgb(109, 76, 65)",
+		"hsl": "hsl(15, 25%, 34%)",
+		"cmyk": "cmyk(0%, 30%, 40%, 57%)"
+	}, {
+		"name": "Millbrook",
+		"weight": "700",
+		"hex": "#5D4037",
+		"rgb": "rgb(93, 64, 55)",
+		"hsl": "hsl(14, 26%, 29%)",
+		"cmyk": "cmyk(0%, 31%, 41%, 64%)"
+	}, {
+		"name": "Rock",
+		"weight": "800",
+		"hex": "#4E342E",
+		"rgb": "rgb(78, 52, 46)",
+		"hsl": "hsl(11, 26%, 24%)",
+		"cmyk": "cmyk(0%, 33%, 41%, 69%)"
+	}, {
+		"name": "English Walnut",
+		"weight": "900",
+		"hex": "#3E2723",
+		"rgb": "rgb(62, 39, 35)",
+		"hsl": "hsl(9, 28%, 19%)",
+		"cmyk": "cmyk(0%, 37%, 44%, 76%)"
+	}]
+}, {
+  "name": "Grey",
+  "slug": "grey",
+	"weight": "500",
+	"hex": "#9E9E9E",
+	"rgb": "rgb(158, 158, 158)",
+	"hsl": "hsl(0, 0%, 62%)",
+	"cmyk": "cmyk(0%, 0%, 0%, 38%)",
+	"children": [{
+		"name": "Alabaster",
+		"weight": "50",
+		"hex": "#FAFAFA",
+		"rgb": "rgb(250, 250, 250)",
+		"hsl": "hsl(0, 0%, 98%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 2%)"
+	}, {
+		"name": "Wild Sand",
+		"weight": "100",
+		"hex": "#F5F5F5",
+		"rgb": "rgb(245, 245, 245)",
+		"hsl": "hsl(0, 0%, 96%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 4%)"
+	}, {
+		"name": "Gallery",
+		"weight": "200",
+		"hex": "#EEEEEE",
+		"rgb": "rgb(238, 238, 238)",
+		"hsl": "hsl(0, 0%, 93%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 7%)"
+	}, {
+		"name": "Alto",
+		"weight": "300",
+		"hex": "#E0E0E0",
+		"rgb": "rgb(224, 224, 224)",
+		"hsl": "hsl(0, 0%, 88%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 12%)"
+	}, {
+		"name": "Silver",
+		"weight": "400",
+		"hex": "#BDBDBD",
+		"rgb": "rgb(189, 189, 189)",
+		"hsl": "hsl(0, 0%, 74%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 26%)"
+	}, {
+		"name": "Silver Chalice",
+		"weight": "500",
+		"hex": "#9E9E9E",
+		"rgb": "rgb(158, 158, 158)",
+		"hsl": "hsl(0, 0%, 62%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 38%)"
+	}, {
+		"name": "Boulder",
+		"weight": "600",
+		"hex": "#757575",
+		"rgb": "rgb(117, 117, 117)",
+		"hsl": "hsl(0, 0%, 46%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 54%)"
+	}, {
+		"name": "Dove Gray",
+		"weight": "700",
+		"hex": "#616161",
+		"rgb": "rgb(97, 97, 97)",
+		"hsl": "hsl(0, 0%, 38%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 62%)"
+	}, {
+		"name": "Tundora",
+		"weight": "800",
+		"hex": "#424242",
+		"rgb": "rgb(66, 66, 66)",
+		"hsl": "hsl(0, 0%, 26%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 74%)"
+	}, {
+		"name": "Mine Shaft",
+		"weight": "900",
+		"hex": "#212121",
+		"rgb": "rgb(33, 33, 33)",
+		"hsl": "hsl(0, 0%, 13%)",
+		"cmyk": "cmyk(0%, 0%, 0%, 87%)"
+	}]
+}, {
+  "name": "Blue Grey",
+  "slug": "blue-grey",
+	"weight": "500",
+	"hex": "#607D8B",
+	"rgb": "rgb(96, 125, 139)",
+	"hsl": "hsl(200, 18%, 46%)",
+	"cmyk": "cmyk(31%, 10%, 0%, 45%)",
+	"children": [{
+		"name": "Porcelain",
+		"weight": "50",
+		"hex": "#ECEFF1",
+		"rgb": "rgb(236, 239, 241)",
+		"hsl": "hsl(204, 15%, 94%)",
+		"cmyk": "cmyk(2%, 1%, 0%, 5%)"
+	}, {
+		"name": "Geyser",
+		"weight": "100",
+		"hex": "#CFD8DC",
+		"rgb": "rgb(207, 216, 220)",
+		"hsl": "hsl(198, 16%, 84%)",
+		"cmyk": "cmyk(6%, 2%, 0%, 14%)"
+	}, {
+		"name": "Tower Gray",
+		"weight": "200",
+		"hex": "#B0BEC5",
+		"rgb": "rgb(176, 190, 197)",
+		"hsl": "hsl(200, 15%, 73%)",
+		"cmyk": "cmyk(11%, 4%, 0%, 23%)"
+	}, {
+		"name": "Gull Gray",
+		"weight": "300",
+		"hex": "#90A4AE",
+		"rgb": "rgb(144, 164, 174)",
+		"hsl": "hsl(200, 16%, 62%)",
+		"cmyk": "cmyk(17%, 6%, 0%, 32%)"
+	}, {
+		"name": "Regent Gray",
+		"weight": "400",
+		"hex": "#78909C",
+		"rgb": "rgb(120, 144, 156)",
+		"hsl": "hsl(200, 15%, 54%)",
+		"cmyk": "cmyk(23%, 8%, 0%, 39%)"
+	}, {
+		"name": "Lynch",
+		"weight": "500",
+		"hex": "#607D8B",
+		"rgb": "rgb(96, 125, 139)",
+		"hsl": "hsl(200, 18%, 46%)",
+		"cmyk": "cmyk(31%, 10%, 0%, 45%)"
+	}, {
+		"name": "Cutty Sark",
+		"weight": "600",
+		"hex": "#546E7A",
+		"rgb": "rgb(84, 110, 122)",
+		"hsl": "hsl(199, 18%, 40%)",
+		"cmyk": "cmyk(31%, 10%, 0%, 52%)"
+	}, {
+		"name": "Fiord",
+		"weight": "700",
+		"hex": "#455A64",
+		"rgb": "rgb(69, 90, 100)",
+		"hsl": "hsl(199, 18%, 33%)",
+		"cmyk": "cmyk(31%, 10%, 0%, 61%)"
+	}, {
+		"name": "Limed Spruce",
+		"weight": "800",
+		"hex": "#37474F",
+		"rgb": "rgb(55, 71, 79)",
+		"hsl": "hsl(200, 18%, 26%)",
+		"cmyk": "cmyk(30%, 10%, 0%, 69%)"
+	}, {
+		"name": "Outer Space",
+		"weight": "900",
+		"hex": "#263238",
+		"rgb": "rgb(38, 50, 56)",
+		"hsl": "hsl(200, 19%, 18%)",
+		"cmyk": "cmyk(32%, 11%, 0%, 78%)"
+	}]
+}]
