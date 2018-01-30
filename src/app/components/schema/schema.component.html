@@ -1,0 +1,14 @@
+<div class="row" [@fadeInAnimation]>
+  <div *ngFor="let color of schema" class="col-md-3 child-color-row" [style.backgroundColor]="color.hex">
+    <div class="main-schema">
+      <span class="color-text">{{ color.weight }}</span>
+      <div class="colors-buttons mt-3">
+        <button appCopy class="btn btn-color" [value]="color.hex">HEX</button>
+        <button appCopy class="btn btn-color" [value]="color.rgb">RGB</button>
+        <button appCopy class="btn btn-color" [value]="color.hsl">HSL</button>
+        <button appCopy class="btn btn-color" [value]="color.cmyk">CMYK</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="mainNotfication"></div>

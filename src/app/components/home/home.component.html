@@ -1,0 +1,6 @@
+<div class="row" [@fadeInAnimation]>
+  <div *ngFor="let color of colors" class="col-md-3 color-row"
+  routerLink="/{{color.slug}}" [style.backgroundColor]="color.hex">
+    <span class="color-text">{{ color.name }}</span>
+  </div>
+</div>
