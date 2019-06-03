@@ -1,2 +1,3 @@
-# material-picker
-pick your favorite color by material colors
+# Material Picker
+
+Pick your favorite color by Material colors.
